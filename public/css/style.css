@@ -1,0 +1,381 @@
+body {
+	background-image: linear-gradient(white, #D3D8E8);
+	background-repeat: no-repeat;
+}
+
+.span8 .brand {
+	text-align: center;
+}
+
+.span8 .counter {
+	text-align: center;
+	margin-top: 20px;
+}
+
+.count {
+	margin-right: 3px;
+	background-color: #000000;
+	color: #FFFFFF;
+	font-weight: bold;
+	padding: 6px;
+	border-radius: 5px;
+	font-size: 20px;
+}
+
+.grump-comments {
+	margin-top: 10px;
+}
+
+.grump-comments button {
+	width: 220px;
+}
+
+.separate {
+	margin-top: 15px;
+	border-bottom: solid 1px #E8E8E8;
+	background-repeat : repeat-x;
+}
+
+.form {
+    border-radius: 8px 8px 8px 8px;
+    box-shadow: 0 1px 2px rgba(50, 50, 50, 0.5) inset;
+    padding: 20px 0px 5px 0px;
+    margin-top: 40px;
+}
+
+.good-grump {
+	color: #00741D;
+}
+
+.bad-grump {
+	color: #A30000;
+}
+
+.bad-good {
+	margin-bottom: 8px;
+}
+
+.invite-friends {
+	text-align: center;
+}
+
+.grump-option {
+	font-size: 11px;
+	margin-bottom: 0;
+}
+
+.grump-date {
+	color: #737373;
+	font-size: 9px;
+	font-weight: bold;
+}
+
+.video iframe{
+	width: 100%;
+	height: 315px;
+	margin-top: 10%;
+	margin-bottom: 10%;
+}
+
+.intro {
+	margin-top: 6%;
+	margin-bottom: 10%;
+}
+
+.form {
+	text-align:center;
+}
+
+.area textarea {
+	width: 90%;
+}
+
+.area-btn button{
+	width: 90%;
+}
+
+.good {
+	color: #00741D;
+	font-weight: bold;
+	margin-right: 15px;
+}
+
+.grump-error {
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+.grump-success {
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+.posts {
+    border-radius: 8px 8px 8px 8px;
+    box-shadow: 0 1px 2px rgba(50, 50, 50, 0.5) inset;
+    padding: 20px 0px 5px 0px;
+    margin-top: 10px;	
+}
+
+.bad {
+	color: #A30000;
+	font-weight: bold;
+}
+
+.partager {
+	color: #3B5998;
+	font-weight: bold;
+	float: right;
+	margin-right: 43px;
+	margin-bottom: 10px;
+}
+
+.navbar .nav {
+	float: right;
+}
+
+.input-append button.add-on {
+    height: inherit !important;
+}
+
+.delete_button {
+	float: right;
+	color: #BC0000;
+	padding-right: 6px;
+}
+
+.delete_button:hover {
+	color: #FF0000;
+	text-decoration: none ; 
+}
+
+.center {
+	text-align: center;
+}
+
+.inputFile {
+	border-radius: 5px;
+}
+
+.wrapper {
+	margin-top: 20px;
+    border-radius: 8px 8px 8px 8px;
+    box-shadow: 1px 1px 2px rgba(50, 50, 50, 0.5) inset;
+   	text-align: center;
+   	padding: 1px;
+   	background-color: #FFFFFF;
+}
+
+.wrapper2 {
+	margin-top: 20px;
+    border-radius: 8px 8px 8px 8px;
+    box-shadow: 1px 1px 2px rgba(50, 50, 50, 0.5) inset;
+    padding: 5px;
+   	background-color: #000000;
+   	color: #FFFFFF;
+   	float: right;
+}
+
+.wrapper3 {
+	margin-top: 10px;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 1px 1px 2px rgba(50, 50, 50, 0.5) inset;
+    padding: 5px;
+    background-color: #FFFFFF;
+    float: right;
+}
+
+.wrapper5 {
+	margin-top: 20px;
+    border-radius: 8px 8px 0 0;
+    box-shadow: 1px 1px 2px rgba(50, 50, 50, 0.5) inset;
+    text-align: center;
+    padding-left: 3px;
+    padding-right: 3px;
+   	background-color: #000000;
+   	color: #FFFFFF;
+   	float: left;
+}
+
+.wrapper6 {
+    border-radius: 0 0 8px 8px;
+    box-shadow: 1px 1px 2px rgba(50, 50, 50, 0.5) inset;
+    text-align: center;
+    padding-top: 20px;
+    padding-left: 3px;
+    padding-right: 3px;
+    background-color: #FFFFFF;
+    float: left;
+}
+
+.wrapper7 {
+	padding: 7px;
+	float: right;
+}
+
+.wrapper8 {
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 1px 1px 2px rgba(50, 50, 50, 0.5) inset;
+    padding: 6px;
+    float: right;
+    margin-top: 10px;
+    background-color: #FFFFFF;
+}
+
+#loader {
+    padding: 6px;
+   	text-align: center;
+   	float: right;
+    margin-top: 10px;
+    display: none;
+}
+
+#loaderstop {
+    padding: 6px;
+   	text-align: center;
+   	float: right;
+    margin-top: 10px;
+    display: none;
+}
+
+.profile_picture {
+	float: left;
+	text-align: center;
+	width: 10%;
+}
+
+.profile_grumps {
+	float: right;
+	width: 85%;
+}
+
+.inset {
+    border-radius: 8px 8px 8px 8px;
+    box-shadow: 0 1px 2px rgba(50, 50, 50, 0.5) inset;
+    height: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    padding: 5px;
+    margin-top: 5%;
+}
+
+#propose-brand {
+	margin-top: 60px;
+}
+
+.fb {
+    background: -moz-linear-gradient(center top , #3B5998 0%, #3B5998 50%, #325190 50%, #325190 100%) repeat scroll 0 0 transparent;
+    box-shadow: 0 3px 0 #213B6D;
+    background: #3B5998;
+}
+
+.fb:hover {
+	background: #2B4582;
+}
+
+.login_button {
+    -moz-user-select: none;
+    border-radius: 5px 5px 5px 5px;
+    display: block;
+    height: 37px;
+    min-width: 200px;
+}
+
+.login_button .logo_wrapper {
+    margin-top: 7px;
+    padding: 3px 12px;
+    color: #FFFFFF;
+    font-weight: bold;
+}
+
+.login_button > span {
+    color: #FFFFFF;
+    font-size: 14px;
+    font-weight: 500;
+    margin-top: 7px;
+    min-height: 20px;
+    padding: 3px 12px;
+}
+
+.login_button {
+    -moz-user-select: none;
+    border-radius: 5px 5px 5px 5px;
+    display: block;
+    height: 37px;
+    min-width: 200px;
+}
+
+.login_button .logo_wrapper {
+    float: left;
+    margin-top: 7px;
+    padding: 3px 12px;
+}
+
+#fb {
+	padding-top:6px;
+}
+
+#fadeIn1 {
+	display: none;
+}
+
+#fadeIn2 {
+	display: none;
+}
+
+#fadeIn3 {
+	display: none;
+}
+
+footer {
+	text-align: center;
+	font-size: 11px;
+}
+
+.propos {
+	margin-right: 8px;
+}
+
+.mail {
+	margin-right: 8px;
+}
+
+.twitter-footer {
+	margin-right: 8px;
+}
+
+.facebook-footer {
+	margin-right: 8px;
+}
+
+.blog {
+	margin-right: 8px;
+}
+
+.conditions {
+	margin-right: 8px;
+}
+
+.confidentiality {
+	margin-right: 8px;
+}
+
+.copyright {
+	color: #737373;
+}
+
+.slideshow {  
+   width: 100%;  
+   height: 160px;  
+   overflow: hidden; 
+}  
+.slideshow ul {  
+   width: 400%;  
+   height: 100%;  
+   padding:0; margin:0;  
+   list-style: none;  
+}  
+.slideshow li {  
+   float: left;  
+} 

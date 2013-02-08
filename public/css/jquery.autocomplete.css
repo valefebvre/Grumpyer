@@ -1,0 +1,28 @@
+.ac_results {
+}
+
+.ac_results ul {
+	width: 90%;
+	list-style-position: outside;
+	list-style: none;
+}
+
+.ac_results li {
+	text-align: center;
+	cursor: default;
+	display: block;
+	font: menu;
+	font-size: 12px;
+	line-height: 18px;
+	overflow: hidden;
+}
+
+.ac_odd {
+	background-color: transparent;
+}
+
+.ac_over {
+	background-color: #737373;
+	color: #FFFFFF;
+	border-radius: 4px;
+}
